@@ -10,7 +10,7 @@ I build tools and archives for the stories hidden in our DNA. My work sits where
 A third-party analysis tool for raw DNA files people already have from a testing company. Upload a file and Scout reads it entirely on your own device: ancestry composition, haplogroups, chromosome painting, health marker education, and relationship tools built for endogamous families. Nothing is transmitted, nothing is stored on a server. Live and in active development, with a beta community of 129 testers.
 
 **The Family Archive**
-A public archive of Delmarva Afro-Indigenous family history: 354 primary documents, more than 4,800 citations, and 3,789 ancestor profiles covering the Nanticoke, Lenape, and Free People of Color families of Delaware, Maryland, Virginia, and New Jersey. Built to the Genealogical Proof Standard, with conflated records flagged rather than quietly merged. The archive stands on the Mitsawokett research compiled by Lynn C. Jackson, whose work made much of it possible.
+A public archive of Delmarva Afro-Indigenous family history: 354 primary documents, more than 4,800 citations, and 3,789 ancestor profiles covering the Nanticoke, Lenape, and Free People of Color families of Delaware, Maryland, Virginia, and New Jersey. Built to the Genealogical Proof Standard, with conflated records flagged rather than quietly merged. It builds on two sources that are distinct and are credited separately, here and throughout the archive: the Mitsawokett research collection, and the research of Lynn C. Jackson.
 
 **[Written In The Genome](https://writteninthegenome.blog)**
 The blog and home base: African American genealogy, DNA ancestry, and family history, including the Tidewater Creole families of Delmarva.
